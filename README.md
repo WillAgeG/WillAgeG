@@ -2,7 +2,7 @@
   Hello, my name is Alexey!
 </h1>
 <div align="center">
-<i>A curated list of awesome Github Profile READMEs</i>
+<i>I am proficient in Python, numpy, pandas, and matplotlib. Additionally, I have knowledge of SQL and I am familiar with SQLite databases.</i>
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
