@@ -2,7 +2,10 @@
   Hello, my name is Alexey!
 </h1>
 <div align="center">
-<i>I am proficient in Python, numpy, pandas, and matplotlib. Additionally, I have knowledge of SQL and I am familiar with SQLite databases.</i>
+<i>
+  I am proficient in Python, numpy, pandas, and matplotlib. Additionally, 
+  I have knowledge of SQL and I am familiar with SQLite databases.
+</i>
 
 <a href="https://github.com/WillAgeG/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/WillAgeG/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -14,19 +17,7 @@
 </div>
 
 ### My projects:
-  - [Categories](#categories)
-      - [Power BI Графики + Аналитика 🤖](#github-actions-)
-      - [Сервис для профориентации школьников 🚀](/hack_lct_2023-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-  - [My Tools](#tools)
-      - [Python 🤗](#simple-but-innovative-ones-)
-      - [Numpy 🎰](#typing-mode-)
-      - [Pandas 👾](#anime-)
-      - [Matlotlib ✨](#minimalistic-)
+  - [Сервис для профориентации школьников 🚀](/hack_lct_2023-)
+  - [Платформа для прогнозирования цен на основе анализа данных 👨🏽‍💻](#code-mode-)
+  - [Титаник (Первый проект)😃😃😃](#dynamic-realtime-)
+  - [Minimalistic ✨](#minimalistic-)
