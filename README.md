@@ -13,6 +13,7 @@
 
 ### My projects:
   - [Сервис для профориентации школьников 🚀](https://github.com/WillAgeG/hack_lct_2023)
+  *  Всю аналитику и работу ищите в jupyter notebook.
   - [Платформа для прогнозирования цен на основе анализа данных 👨🏽‍💻](#code-mode-)
   - [Титаник (Первый проект)😃😃😃](https://github.com/WillAgeG/titanic_first_project)
   - [Minimalistic ✨](#minimalistic-)
