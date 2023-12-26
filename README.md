@@ -19,5 +19,5 @@
 ### My projects:
   - [Сервис для профориентации школьников 🚀](https://github.com/WillAgeG/hack_lct_2023)
   - [Платформа для прогнозирования цен на основе анализа данных 👨🏽‍💻](#code-mode-)
-  - [Титаник (Первый проект)😃😃😃](#dynamic-realtime-)
+  - [Титаник (Первый проект)😃😃😃](https://github.com/WillAgeG/Projects)
   - [Minimalistic ✨](#minimalistic-)
