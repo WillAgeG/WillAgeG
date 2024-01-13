@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello, my name is Alexey!
 </h1>
-<div align="center">
+<div align="left">
 <i>
 I am an experienced data analyst with a deep understanding of Python and the use of various data analysis libraries such as pandas, numpy, matplotlib, and seaborn. I proficiently present my work results in Jupyter Notebook.
 
