@@ -1,33 +1,33 @@
 <h1 align="center">
-  Hello, my name is Alexey!
+  Привет, меня зовут Алексей!
 </h1>
 <div align="left">
 <i>
-I am an experienced data analyst with a deep understanding of Python and the use of various data analysis libraries such as pandas, numpy, matplotlib, and seaborn. I proficiently present my work results in Jupyter Notebook.
+Я опытный аналитик данных с глубоким знанием Python и библиотек для анализа данных, таких как pandas, numpy, matplotlib и seaborn. Результаты своей работы я представляю в Jupyter Notebook.
+Также использую Tableau и Power BI для создания визуализаций и дашбордов, что позволяет легко делиться данными с другими.
 
-In my work, I also utilize Tableau and Power BI for creating visualizations and dashboards, which allows me to easily present and share data with others.
+Работаю с Git и Jupyter Hub для командной работы. Имею опыт работы на удалённых серверах через командную строку.
 
-I am accustomed to collaborating on projects through Jupyter Hub, using Git for teamwork. Additionally, I have experience working on remote servers via the command line, making my work efficient in any conditions.
+Профессионально владею ClickHouse и PostgreSQL для работы с базами данных.
 
-My proficiency in ClickHouse and PostgreSQL enables me to handle complex queries and effectively work with databases.
+Провожу A/B тестирование и анализ результатов, что помогает принимать обоснованные решения по продукту.
 
-I have experience in conducting A/B testing and analyzing the results, which helps me make informed decisions about the best product version.
+Обладаю теоретическими знаниями по вероятностям и проводил статистические тесты. Также использую линейные модели и бутстреп-анализ для прогнозирования цен.
 
-I have theoretical knowledge of probabilities and experience conducting statistical tests. Moreover, I possess methods for predicting prices based on linear models and bootstrap analysis.
+Понимаю, как думают продукт-менеджеры, и умею рассчитывать ключевые продуктовые метрики.
 
-I have a strong understanding of how product managers think and appreciate the value that an analyst brings to the business. I am capable of calculating key product metrics and applying them to solve analytical tasks.
-
-- Winner of 1HACK-THE-ICE 5.0 (Team BIMS, 11/24/2023). Used Python, Pandas, Numpy, Power BI, and SQL during the competition.
-- Sber's School 21 (Ecole 42 franchise) - an active student. I have a deep understanding of memory management and can create more efficient algorithms in the C language and integrate them into Python.
+- Победитель 1HACK-THE-ICE 5.0 (Команда BIMS, 24.11.2023). Использовал Python, Pandas, Numpy, Power BI и SQL.
+- Студент школы Сбера 21 (Ecole 42). Понимаю управление памятью и создаю эффективные алгоритмы на C, интегрируя их в Python.
 </i>
 
 <a href="https://github.com/WillAgeG/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
-### My projects:
+### Мои проекты:
   - [Сервис для профориентации школьников 🚀](https://github.com/WillAgeG/hack_lct_2023)
     Вся аналитика и работа сделана в Jupyter Notebook.
   - [Платформа для прогнозирования цен на основе анализа данных 👨🏽‍💻](https://github.com/WillAgeG/ice5_OldSchool)
+    В основном вся работа в PowerBI
   - [Титаник (Первый проект)😃😃😃](https://github.com/WillAgeG/titanic_first_project)
-  - [Minimalistic ✨](#minimalistic-)
+    Вся аналитика и работа сделана в Jupyter Notebook.
