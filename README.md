@@ -19,5 +19,5 @@
 
 ### Контактная информация:  
   - Телефон и WhatsApp: 89142764960  
-  - Telegram: @WillAgeG  
+  - Telegram: @WillAgeG [тык](https://t.me/WillAgeG)
   - Почта: [willagegg@gmail.com](mailto:willagegg@gmail.com)
