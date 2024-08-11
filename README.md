@@ -16,3 +16,8 @@
     В основном вся работа в PowerBI
   - [Титаник (Первый проект)😃😃😃](https://github.com/WillAgeG/titanic_first_project)
     Вся аналитика и работа сделана в Jupyter Notebook.
+
+### Контактная информация:  
+— Телефон и WhatsApp: 89142764960  
+— Telegram: @WillAgeG  
+— Почта: [willagegg@gmail.com](mailto:willagegg@gmail.com)
