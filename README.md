@@ -3,7 +3,9 @@
 \~4 years of experience · Remote-ready (EU/US overlap) · Async-first communication
 
 **Core stack:** Python, SQL, Polars, PySpark, FastAPI, Kafka, Airflow, ClickHouse, Iceberg, Debezium, Docker, GitLab, Power BI, Grafana, Streamlit.
+
 **Focus:** data modeling, ETL/ELT, CDC, lakehouse design, documentation, observability, cost/performance hygiene.
+
 **Target roles:** Senior Data Engineer / Analytics Engineer / Data Platform Engineer (remote).
 
 ---
