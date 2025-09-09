@@ -2,15 +2,13 @@
 
 \~4 years of experience · Remote-ready (EU/US overlap) · Async-first communication
 
+**Summary:** Senior Data Engineer with 4+ years of experience designing ETL/ELT pipelines, DWH/lakehouse architectures, and data products at enterprise scale and high-growth startups. Skilled in Python, PySpark, Kafka, Airflow, and modern modeling (Data Vault, Anchor). Proven record in cost savings and performance optimization. Remote-ready with clear async communication.
+
 **Core stack:** Python, SQL, Polars, PySpark, FastAPI, Kafka, Airflow, ClickHouse, Iceberg, Debezium, Docker, GitLab, Power BI, Grafana, Streamlit.
 
 **Focus:** data pipeline, data platform, big data, distributed systems, cloud storage, streaming, batch processing, CI/CD, containerization, observability
 
 **Target roles:** Senior Data Engineer / Systems Analyst / Data Platform Engineer (remote).
-
-
-**Summary:** Senior Data Engineer with 4+ years of experience designing ETL/ELT pipelines, DWH/lakehouse architectures, and data products at enterprise scale and high-growth startups. Skilled in Python, PySpark, Kafka, Airflow, and modern modeling (Data Vault, Anchor). Proven record in cost savings and performance optimization. Remote-ready with clear async communication.
-
 
 ---
 
