@@ -1,29 +1,36 @@
+### Alexey — Data Engineer & Systems Analyst
 
-### Привет, меня зовут Алексей!
+Remote-ready for international teams; async by default; clear written comms. Builds reliable data platforms and analytics that ship business value.
 
-Инженер данных с более чем 3-x летним опытом, владеющий Python и C на хорошем уровне. Имею опыт работы с большими данными.
-Умею приносить пользу с помощью А/Б тестов. Был значительный опыт в автоматизации бизнес-процессов. Обучаюсь в школе 21 от Сбера.
+**Core stack:** Python, SQL, Polars, PySpark, FastAPI, Kafka, Airflow, ClickHouse, Iceberg, Debezium, Docker, GitLab, Power BI, Grafana, Streamlit.
+**Focus:** data modeling, ETL/ELT, CDC, lakehouse design, documentation, observability, cost and performance hygiene.
+**Work mode:** full-time or contractor, fully remote, overlap with Europe and the Americas.
 
-  - Победитель 1HACK-THE-ICE 5.0 (Команда BIMS, 24.11.2023).
-    Использовал Python, Pandas, Numpy, Power BI и SQL.
-  - Попал в финал хакатона «Лидеры цифровой трансформации» где, участвовали команды из МФТИ, ВШЭ, МИСИС и других вузов.
-    Использовал Python, Pandas, FastAPI.
-  - Студент школы Сбера 21 (Ecole 42).
-    Смогу сделать интеграцию Python и Rust. Постенно изучаю Rust.
-  - Победитель 1HACK-THE-ICE 6.0 (Команда BIMS, 23.11.2024).
-    Использовал Spark Streaming, прогнозирование временных рядов (Prophet), Polars, Streamlit.
-  - Победитель MPIT (Команда BIMS, 26.11.2024).
-    Использовал Transformers, FastAPI, Polars.
+#### VTB — Systems Analyst
 
-### Мои проекты:
-  - [Сервис для профориентации школьников 🚀](https://github.com/WillAgeG/hack_lct_2023)
-    Вся аналитика и работа сделана в Jupyter Notebook.
-  - [Платформа для прогнозирования цен на основе анализа данных 👨🏽‍💻](https://github.com/WillAgeG/ice5_OldSchool)
-    В основном вся работа в PowerBI
-  - [Титаник (Первый проект)😃😃😃](https://github.com/WillAgeG/titanic_first_project)
-    Вся аналитика и работа сделана в Jupyter Notebook.
+* Built a lakehouse on object storage with Iceberg for enterprise use.
+* Wrote architecture docs, playbooks, runbooks, data contracts, and recovery objectives in a Confluence-style portal.
+* Described ETL flows in BPMN and UML to satisfy regulatory audits.
+* Designed models, integrations, and marts using the Data Vault approach.
+* Set up ingest from Oracle to Kafka to object storage to Iceberg with CDC via Debezium and batch loads for historical layers.
 
-### Контактная информация:  
-  - Телефон и WhatsApp: 89142764960  
-  - Telegram: @WillAgeG [тык](https://t.me/WillAgeG)
-  - Почта: [willagegg@gmail.com](mailto:willagegg@gmail.com)
+#### Samokat — Data Engineer
+
+* Simplified sales ETL and forecasting pipelines to improve accuracy and reduce stock costs.
+* Migrated complex jobs between Pandas, Polars, and PySpark where pragmatic.
+* Delivered production data marts in ClickHouse, including write-off analytics.
+* Orchestrated DWH loads from object storage, MSSQL, Hive and files with Airflow; supported full, incremental, and CDC patterns.
+* Shipped Streamlit dashboards with custom filters and KPI views.
+* Set up CI and CD with linters and GitLab; containerized ETL, ClickHouse and apps with Docker.
+* Explored Data Vault and Anchor modeling; tuned pipelines to lower infra load.
+
+#### AEB Bank — Data & Analytics
+
+* Ran A/B experiments for credit offers in SMS and in-app banners; selected winning variants with product teams.
+* Automated financial reporting to cut manual effort and improve data quality.
+* Built Power BI dashboards for key finance metrics.
+* With engineering, delivered Grafana dashboards for near-real-time sales; automated ingestion with Airflow; processed data in Pandas; deployed on Docker and Linux.
+
+---
+
+If you want, I can compress this into a one-screen LinkedIn summary or tailor it to a specific remote job post.
