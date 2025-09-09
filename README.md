@@ -12,7 +12,7 @@
 
 ---
 
-#### **VTB — Systems Analyst** | Mar 2025 — Present
+#### **VTB Bank — Systems Analyst** | Mar 2025 — Present
 
 * Worked on creating a corporate data warehouse (S3 + Apache Iceberg) for the VTB Group.
 * Prepared technical documentation in Sfera-portal (Confluence analogue): architecture diagrams, playbooks, runbooks, data contracts, RTO/RPO.
@@ -51,6 +51,6 @@
 
 ### Companies
 
-* **VTB** — one of the largest universal banking groups in Eastern Europe with **tens of millions of clients**; ultra-technological environment with strict regulatory standards and large-scale data governance.
+* **VTB Bank** — one of the largest universal banking groups in Eastern Europe with **tens of millions of clients**; ultra-technological environment with strict regulatory standards and large-scale data governance.
 * **Samokat** — leading quick-commerce grocery company with **millions of monthly active users** and a highly data-driven dark-store model.
 * **AEB Bank** — a regional retail and corporate bank in the Russian Far East; a standard banking environment.
