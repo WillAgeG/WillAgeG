@@ -12,7 +12,7 @@
 
 ---
 
-#### **VTB BANK — Systems Analyst** | Mar 2025 — Present
+#### **VTB BANK — Data Engineer** | Mar 2025 — Present
 
 * Worked on creating a corporate data warehouse (S3 + Apache Iceberg) for the VTB Group.
 * Prepared technical documentation in Sfera-portal (Confluence analogue): architecture diagrams, playbooks, runbooks, data contracts, RTO/RPO.
