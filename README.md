@@ -8,7 +8,7 @@
 
 **Focus:** data pipeline, data platform, big data, distributed systems, cloud storage, streaming, batch processing, CI/CD, containerization, observability
 
-**Target roles:** Senior Data Engineer / Systems Analyst / Data Platform Engineer (remote).
+**Target roles:** Senior Data Engineer / Data Platform Engineer (remote).
 
 ---
 
