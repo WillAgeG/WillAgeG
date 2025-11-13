@@ -1,4 +1,4 @@
-### Alexey Sharaborin — **Senior Data Engineer & Systems Analyst**
+### Alexey Sharaborin — **Senior Data Engineer**
 
 \~4 years of experience · Remote-ready (EU/US overlap) · Async-first communication
 
